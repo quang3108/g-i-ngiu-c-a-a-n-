@@ -1,17 +1,15 @@
 const CONFIG = {
     introTitle: 'aloo ebe của a :>>',
-    introDesc: `Tao nói là tao
-    làm được mà :)))`,
+    introDesc: `hihi hôm nay a có quà cho bé nha',
     btnIntro: 'hihi',
-    title: 'nhớ cho t lên ké story :)) ',
-    desc: 'nhớ che tên đi nhaaa:>>>',
-    btnYes: 'ok. tất nhiên rồi :)))',
+    title: 'đây là món quà mà a dành cho bé nhân kỉ niệm một tháng của tụi mình  ',
+    desc: 'bé có thích khum',
+    btnYes: 'cóa :)))',
     btnNo: 'Không, có cái qq :3',
-    question:'thấy t đỉnh không :>>>',
-    btnReply: 'Gửi cho t <3',
+    question:'thấy a đỉnh không :>>>',
+    btnReply: 'Gửi cho a <3',
     reply: 'đỉnh lắm luôn <33333333',
-    mess: 't biết mà khen hoài :)))',
-    messDesc: 'sau này về nhớ bao t đi ăn.',
+    mess: 'a biết mà khen hoài :)))',
+    messDesc: 'a hi vọng hai đứa mình sớm có dịp gặp nhau để a còn đc ôm bé nựa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    
